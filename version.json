@@ -1,6 +1,6 @@
 {
   "device": "IPC4",
-  "version": 110,
+  "version": 113,
   "firmware": "https://github.com/Marees2001/Release/blob/main/V%201.1.0/firmware.bin",
   "release_date": "2026-06-03",
   "notes": "Added energy meter fixes and improved WiFi stability"
