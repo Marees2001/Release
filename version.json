@@ -1,0 +1,7 @@
+{
+  "device": "IPC4",
+  "version": "1.0.1",
+  "firmware": "https://github.com/mareoniotlab/IPC4-Firmware/releases/download/v1.0.1/firmware.bin",
+  "release_date": "2026-06-03",
+  "notes": "Added energy meter fixes and improved WiFi stability"
+}
